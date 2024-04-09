@@ -47,5 +47,3 @@
 <img src="https://raw.githubusercontent.com/AswinAnish/AswinAnish/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
